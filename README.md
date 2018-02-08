@@ -5,7 +5,7 @@
 一般安装了node，自动安装了npm；执行以下命令查看是否安装成功；
 
      node -v:查看node版本；
-     npm -v：查看npm版本；
+     npm -v：查看npm版本；
     
 # 安装express：npm install -g express-generator
     express --version：查看npm版本
