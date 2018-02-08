@@ -16,6 +16,7 @@
     cd到服务器文件app.js的路径，
     #执行命令：
       #npm link express
+      
       #npm link socket.io
       #node app.js
       #此时一个超级简单服务器已经跑起来了
