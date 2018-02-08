@@ -12,14 +12,12 @@
 # 安装socket.io：npm install socket.io
     
 # 运行
-  服务器：
-    cd到服务器文件app.js的路径，
-    #执行命令：
-      #npm link express
+  服务器：cd到服务器文件app.js的路径，执行命令：
+  
+      npm link express
+      npm link socket.io
+      node app.js
       
-      #npm link socket.io
-      #node app.js
-      #此时一个超级简单服务器已经跑起来了
-  客户端：
-    直接运行即可
+   此时一个超级简单服务器已经跑起来了
+  客户端：直接运行即可
 
