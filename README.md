@@ -9,6 +9,7 @@
     npm -v：查看npm版本；
 # 安装express：npm install -g express-generator
     express --version：查看npm版本
+# 安装socket.io：npm install socket.io
     
 # 运行
   服务器：
